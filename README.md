@@ -45,8 +45,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iracross1&layout=compact)](https://github.com/iracross1/github-readme-stats)
 
-![](https://media2.giphy.com/media/54oUR7bTH0FhK/200.gif) ![](https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif)
-![](https://media4.giphy.com/media/CpzgATiNo7DlC/200.gif)
+#![](https://media2.giphy.com/media/54oUR7bTH0FhK/200.gif) #![](https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif)
+#![](https://media4.giphy.com/media/CpzgATiNo7DlC/200.gif)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
