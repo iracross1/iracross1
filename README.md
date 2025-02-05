@@ -11,14 +11,14 @@
 <h1>Cyber Security</h1>
 <ul>
 Google Cybersecurity Professional Certificate
-  ● Drafting a professional statement
-  ● Conducting a security audit
-  ● Analyzing network structure and security
-  ● Using Linux commands to manage file permissions
-  ● Applying filters to SQL queries
-  ● Identifying vulnerabilities for a small business
-  ● Documenting incidents with an incident handler’s journal
-  ● Importing and parsing a text file in a security-related scenario
+ <li> ● Drafting a professional statement
+ <li> ● Conducting a security audit
+ <li> ● Analyzing network structure and security
+ <li> ● Using Linux commands to manage file permissions
+ <li> ● Applying filters to SQL queries
+ <li> ● Identifying vulnerabilities for a small business
+<li>  ● Documenting incidents with an incident handler’s journal
+<li>  ● Importing and parsing a text file in a security-related scenario
 </ul>
 
 
