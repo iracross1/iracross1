@@ -9,6 +9,7 @@
 
 ### Go-To's
 <h1>Cyber Security</h1>
+<ul>
 Google Cybersecurity Professional Certificate
   ● Drafting a professional statement
   ● Conducting a security audit
@@ -18,6 +19,7 @@ Google Cybersecurity Professional Certificate
   ● Identifying vulnerabilities for a small business
   ● Documenting incidents with an incident handler’s journal
   ● Importing and parsing a text file in a security-related scenario
+</ul>
 
 
 
