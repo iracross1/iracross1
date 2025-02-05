@@ -10,6 +10,16 @@
 ### Go-To's
 <h1>Cyber Security</h1>
 Google Cybersecurity Professional Certificate
+  ● Drafting a professional statement
+  ● Conducting a security audit
+  ● Analyzing network structure and security
+  ● Using Linux commands to manage file permissions
+  ● Applying filters to SQL queries
+  ● Identifying vulnerabilities for a small business
+  ● Documenting incidents with an incident handler’s journal
+  ● Importing and parsing a text file in a security-related scenario
+
+
 
 ### Tech
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
