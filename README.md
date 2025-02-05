@@ -8,9 +8,8 @@
 
 
 ### Go-To's
-<h1>Cyber Security</h1>
+<h1>Cyber Security: Google Cybersecurity Professional Certificate</h1>
 <ul>
-  <li>Google Cybersecurity Professional Certificate</li>
   <li>Drafting a professional statement</li>
   <li>Conducting a security audit</li>
   <li>Analyzing network structure and security</li>
