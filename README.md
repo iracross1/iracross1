@@ -8,58 +8,18 @@
 
 
 ### Go-To's
-Cyber Security Certificate
-    
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            background: #e2e2e2;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
-            color: #333;
-        }
-    
-
-
-    
-        Cyber Security
-        Google Cybersecurity Professional Certificate
-        
-            Drafting a professional statement
-            Conducting a security audit
-            Analyzing network structure and security
-            Using Linux commands to manage file permissions
-            Applying filters to SQL queries
-            Identifying vulnerabilities for a small business
-            Documenting incidents with an incident handler’s journal
-            Importing and parsing a text file in a security-related scenario
-        
-    
-
-
-
-
+<h1>Cyber Security</h1>
+<ul>
+  <li>Google Cybersecurity Professional Certificate</li>
+  <li>Drafting a professional statement</li>
+  <li>Conducting a security audit</li>
+  <li>Analyzing network structure and security</li>
+  <li>Using Linux commands to manage file permissions</li>
+  <li>Applying filters to SQL queries</li>
+  <li>Identifying vulnerabilities for a small business</li>
+  <li>Documenting incidents with an incident handler’s journal</li>
+  <li>Importing and parsing a text file in a security-related scenario</li>
+</ul>
 
 ### Tech
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
