@@ -8,18 +8,56 @@
 
 
 ### Go-To's
-<h1>Cyber Security</h1>
-<ul>
-Google Cybersecurity Professional Certificate<br>
- <li>  Drafting a professional statement
- <li>  Conducting a security audit
- <li>  Analyzing network structure and security
- <li>  Using Linux commands to manage file permissions
- <li>  Applying filters to SQL queries
- <li>  Identifying vulnerabilities for a small business
-<li>   Documenting incidents with an incident handler’s journal
-<li>   Importing and parsing a text file in a security-related scenario
-</ul>
+Cyber Security Certificate
+    
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e2e2e2;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            color: #333;
+        }
+    
+
+
+    
+        Cyber Security
+        Google Cybersecurity Professional Certificate
+        
+            Drafting a professional statement
+            Conducting a security audit
+            Analyzing network structure and security
+            Using Linux commands to manage file permissions
+            Applying filters to SQL queries
+            Identifying vulnerabilities for a small business
+            Documenting incidents with an incident handler’s journal
+            Importing and parsing a text file in a security-related scenario
+        
+    
+
+
 
 
 
