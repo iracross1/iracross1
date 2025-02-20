@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0007ff&height=200&section=header&text=Ira%20Cross&fontColor=EDF4F5&fontSize=55&animation=twinkling)
 
-
-### Socials
-![LinkedIn](https://www.linkedin.com/in/iracrosse)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-
-
 ### Progress
 <h1>2025 Cyber Security: Google Cybersecurity Professional Certificate</h1>
 <ul>
