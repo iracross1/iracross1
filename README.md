@@ -7,17 +7,17 @@
 
 
 
-### Go-To's
-<h1>Cyber Security: Google Cybersecurity Professional Certificate</h1>
+### Progress
+<h1>2025 Cyber Security: Google Cybersecurity Professional Certificate</h1>
 <ul>
-  <li>Drafting a professional statement</li>
-  <li>Conducting a security audit</li>
-  <li>Analyzing network structure and security</li>
-  <li>Using Linux commands to manage file permissions</li>
-  <li>Applying filters to SQL queries</li>
-  <li>Identifying vulnerabilities for a small business</li>
-  <li>Documenting incidents with an incident handler’s journal</li>
-  <li>Importing and parsing a text file in a security-related scenario</li>
+  <li>Foundation of Cybersecurity</li>
+  <li>Play It Safe: Manage Security Risks</li>
+  <li>Connect an Protect: Networks and Network Security</li>
+  <li>Tools of the Trade: Linux and SQL</li>
+  <li>Assets, Threats, and Vulnerabilities</li>
+  <li>Sound the Alarm: Detection and Response</li>
+  <li>Automate Cybersecurity Tasks with Python</li>
+  <li>Put it to Work: Prepare for Cybersecurity Jobs</li>
 </ul>
 
 ### Tech
