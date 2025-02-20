@@ -3,7 +3,7 @@
 ### Progress
 <h1>2025 Cyber Security: Google Cybersecurity Professional Certificate</h1>
 <ul>
-  <li>Foundation of Cybersecurity</li>
+  <li>Foundations of Cybersecurity</li>
   <li>Play It Safe: Manage Security Risks</li>
   <li>Connect an Protect: Networks and Network Security</li>
   <li>Tools of the Trade: Linux and SQL</li>
